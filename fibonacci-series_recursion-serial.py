@@ -34,9 +34,9 @@ if ComputationType == 'P':
 			temp = first + second
 			first = second
 			second = temp
-		print temp
+		print "%f\n" % temp
 else:
 	for i in range(1,num):
-		print fibo(recurJ)
+		print "%f\n" % fibo(recurJ)
 		recurJ +=1
 
