@@ -11,3 +11,4 @@ biopython-scripts/venvBioPy/*
 biopython-scripts/xml-files/*
 .virtenv/*
 deleteme
+*.docx
