@@ -9,3 +9,5 @@ biopython-scripts/venvBioPy/*
 *.afa
 *.tar
 biopython-scripts/xml-files/*
+.virtenv/*
+deleteme
